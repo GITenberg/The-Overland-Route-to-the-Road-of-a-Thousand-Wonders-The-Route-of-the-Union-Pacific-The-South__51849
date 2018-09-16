@@ -1,0 +1,34 @@
+_repo: The-Overland-Route-to-the-Road-of-a-Thousand-Wonders-The-Route-of-the-Union-Pacific-The-South__51849
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Union Pacific Railroad Company. Passenger Department
+    alias: Union Pacific Railroad Company. Passenger Dept.
+    gutenberg_agent_id: '48771'
+    url: http://www.gutenberg.org/2009/agents/48771
+  - agent_name: Southern Pacific Company. Passenger Department
+    aliases:
+    - Southern Pacific Company. Passenger Dept.
+    - Southern Pacific Company. Passenger Traffic Department
+    gutenberg_agent_id: '44782'
+    url: http://www.gutenberg.org/2009/agents/44782
+description: ''
+gutenberg_issued: '2016-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51849'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Southern Pacific Company'
+- !lcsh 'Railroad travel -- West (U.S.)'
+- !lcsh 'Union Pacific Railroad Company'
+- GITenberg
+title: "The Overland Route to the Road of a Thousand Wonders\r\nThe Route of the Union\
+  \ Pacific & The Southern Pacific Railroads from Omaha to San Francisco, a Journey\
+  \ of Eighteen Hundred Miles Where Once the Bison & the Indian Reigned"
+url: http://www.gutenberg.org/ebooks/51849
