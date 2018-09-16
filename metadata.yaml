@@ -1,5 +1,8 @@
 _repo: The-Overland-Route-to-the-Road-of-a-Thousand-Wonders-The-Route-of-the-Union-Pacific-The-South__51849
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51849-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Union Pacific Railroad Company. Passenger Department
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '44782'
     url: http://www.gutenberg.org/2009/agents/44782
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51849#The-Overland-Route-to-the-Road-of-a-Thousand-Wonders-The-Route-of-the-Union-Pacific-The-South_
 gutenberg_issued: '2016-04-24'
 gutenberg_type: Text
 identifiers:
